@@ -34,3 +34,5 @@ def reverse_text(text):
 #input_text = title_first_letter(input_text)  # Виправлено
 #input_text = find_unique_words(input_text)
 #input_text = reverse_text(input_text)
+#######################################
+#ТИПО ЧТО-ТО ИЗМЕНИЛ 
